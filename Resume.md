@@ -1,7 +1,7 @@
 # 王笨
 ## 联系方式
 - Email: <ben.wangdev@gmail.com>
-
+- QQ: hey  qunar
 ## 个人信息
 - 王笨/男/1990
 - 硕士/西南交通大学/通信信息与系统
